@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alpha-Oumar-Khann-DIALLO
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning Flask,Django,Html
-- 💞️ I’m looking to collaborate on not much right now
+- 🌱 I’m currently learning Flask,Django,Python and whatever interests me.
+- 💞️ I’m not looking to collaborate with anyone yet because I'm still learing and I am not exactly the best at coding yet.
 - 📫 How to reach me Alphakhanndiallo@proton.me
 - 😄 Pronouns: attack helicopter
 - ⚡ Fun fact: I started with flask for a project hated it but am too lazy to switch to django
